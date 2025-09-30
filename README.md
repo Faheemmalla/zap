@@ -53,8 +53,11 @@ We welcome contributions from the community! If you’d like to help improve Zap
 * Create a new feature branch
 * Submit a pull request
 
+
+
 ---
 
-## 📷 Screenshots (Coming Soon)
+## 📷 Screenshots
 
-Visual previews of Zap in action will be added here soon.
+<img width="494" height="572" alt="Screenshot 2025-09-30 at 9 37 19 PM" src="https://github.com/user-attachments/assets/e1450ee3-ffab-4786-aa25-d4511b7541ab" />
+<img width="392" height="560" alt="Screenshot 2025-09-30 at 9 38 03 PM" src="https://github.com/user-attachments/assets/db5e5095-967c-4a4f-8e2e-6fcd525d3745" />
